@@ -1,0 +1,1 @@
+Copied the file 00-keyboard.conf to /etc/X11/xorg.conf.d/ to swap caps and escape keys.

@@ -1,0 +1,2 @@
+rtl8723be.conf goes in /etc/modprobe.d/ to get the wireless card in the HP Stream 13 working.
+May need to reboot with modprobe.
